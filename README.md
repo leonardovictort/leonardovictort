@@ -52,7 +52,7 @@
         </ul>
     </div>
     <div class="section">
-        <h2>🔹 Front-End/h2>
+        <h2>🔹 Front-End</h2>
         <ul>
             <li>HTML</li>
             <li>CSS</li>
