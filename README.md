@@ -52,12 +52,14 @@
         </ul>
     </div>
     <div class="section">
-        <h2>🔹 Testes e Boas Práticas</h2>
+        <h2>🔹 Front-End/h2>
         <ul>
-            <li>Testes unitários e de integração (JUnit, Mockito)</li>
-            <li>Code Review e boas práticas (SOLID, Clean Code)</li>
-            <li>Resolução de desafios de código (Leetcode, HackerRank)</li>
-            <li>Contribuições para projetos Open Source</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Reservado</li>
+            <li>Reservado</li>
+            <li>Reservado</li>
         </ul>
     </div>
     <div class="section">
