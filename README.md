@@ -3,8 +3,8 @@
 Sou um desenvolvedor Java Júnior em constante evolução, buscando aprimorar minhas habilidades e contribuir para projetos desafiadores. Tenho experiência em desenvolvimento backend com Java e frameworks modernos, além de conhecimento em arquitetura de software e práticas de DevOps.
 
 🚀 Habilidades Técnicas
-
-🔹<ul> Java e Padrões de Projeto</ul>
+<ul>
+🔹Java e Padrões de Projeto</ul>
 
 ✅ Conhecimento  em:
 
