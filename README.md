@@ -22,10 +22,6 @@
             <li>Exception</li>
             <li>Threads</li>
             <li>JUnit</li>
-            <li>Coleções Java (List, Set, Map) e Streams API</li>
-            <li>Tratamento de exceções e boas práticas</li>
-            <li>Programação funcional (Lambda, Optional)</li>
-            <li>Threads e concorrência (ExecutorService, CompletableFuture)</li>
         </ul>
     </div>
     <div class="section">
