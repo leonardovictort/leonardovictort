@@ -12,13 +12,13 @@
     </div>
     <div class="section">
         <h2>🔹 Java e Padrões de Projeto</h2>
-        <ol>
+        <ul>
             <li>Coleções Java (List, Set, Map) e Streams API</li>
             <li>Tratamento de exceções e boas práticas</li>
             <li>Programação funcional (Lambda, Optional)</li>
             <li>Threads e concorrência (ExecutorService, CompletableFuture)</li>
             <li>Padrões de projeto (Singleton, Factory, Strategy, Repository)</li>
-        </ol>
+        </ul>
     </div>
     <div class="section">
         <h2>🔹 Desenvolvimento Web com Spring Boot</h2>
