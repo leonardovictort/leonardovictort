@@ -8,11 +8,11 @@ Sou um desenvolvedor Java Júnior em constante evolução, buscando aprimorar mi
 
 ✅ Conhecimento  em:
 
-<Coleções Java (List, Set, Map) e Streams API
-Tratamento de exceções e boas práticas
-Programação funcional (Lambda, Optional)
-Threads e concorrência (ExecutorService, CompletableFuture)
-Padrões de projeto (Singleton, Factory, Strategy, Repository)
+<li>Coleções Java (List, Set, Map) e Streams API</li>
+<li>Tratamento de exceções e boas práticas</li>
+<li>Programação funcional (Lambda, Optional)</li>
+<li>Threads e concorrência (ExecutorService, CompletableFuture)</li>
+<li>Padrões de projeto (Singleton, Factory, Strategy, Repository)</li>
 🔹 Desenvolvimento Web com Spring Boot
 
 ✅ Experiência com:
