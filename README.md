@@ -18,6 +18,10 @@
             <li>Programação Back-End</li>
             <li>Padrões de Projetos</li>
             <li>JavaFX</li>
+            <li>SOLID</li>
+            <li>Exception</li>
+            <li>Threads</li>
+            <li>JUnit</li>
             <li>Coleções Java (List, Set, Map) e Streams API</li>
             <li>Tratamento de exceções e boas práticas</li>
             <li>Programação funcional (Lambda, Optional)</li>
