@@ -1,23 +1,18 @@
-📌 Sobre Mim
+<h1>📌 Sobre Mim</h1>
 
 Sou um desenvolvedor Java Júnior em constante evolução, buscando aprimorar minhas habilidades e contribuir para projetos desafiadores. Tenho experiência em desenvolvimento backend com Java e frameworks modernos, além de conhecimento em arquitetura de software e práticas de DevOps.
 
 🚀 Habilidades Técnicas
 
-🔹 Java e Padrões de Projeto
+🔹<ul> Java e Padrões de Projeto</ul>
 
-✅ Conhecimento avançado em:
+✅ Conhecimento  em:
 
-Coleções Java (List, Set, Map) e Streams API
-
+<Coleções Java (List, Set, Map) e Streams API
 Tratamento de exceções e boas práticas
-
 Programação funcional (Lambda, Optional)
-
 Threads e concorrência (ExecutorService, CompletableFuture)
-
 Padrões de projeto (Singleton, Factory, Strategy, Repository)
-
 🔹 Desenvolvimento Web com Spring Boot
 
 ✅ Experiência com:
@@ -31,8 +26,6 @@ Spring Security (Autenticação e Autorização JWT)
 Spring Boot Actuator para monitoramento
 
 🔹 Microservices e Arquitetura
-
-✅ Conhecimento em:
 
 Spring Cloud (Config Server, Eureka, Feign Client)
 
