@@ -47,12 +47,16 @@
         <ul>
             <li>Docker (Criação e gerenciamento de containers)</li>
             <li>Kubernetes (Orquestração de aplicações)</li>
-            <li>CI/CD (GitHub Actions, Jenkins)</li>
+            <li>CI/CD</li>
                 <ul>
                     <li>GitHub Actions</li>
                     <li>Jenkins</li>
                 </ul>
-            <li>Monitoramento (Prometheus, Grafana)</li>
+            <li>Monitoramento</li>
+             <ul>
+                <li>Grafana</li>
+                <li>Prometheus</li>
+            </ul>
         </ul>
     </div>
     <div class="section">
