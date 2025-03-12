@@ -36,17 +36,34 @@
     <div class="section">
         <h2>🔹 Microservices e Arquitetura</h2>
         <ul>
-            <li>Spring Cloud (Config Server, Eureka, Feign Client)</li>
-            <li>Mensageria com RabbitMQ e Kafka</li>
-            <li>Banco de dados distribuído (MongoDB, Redis)</li>
-            <li>API Gateway (Zuul, Spring Cloud Gateway)</li>
+            <li>Spring Cloud</li>
+            <ul>
+                <li>Config Server</li>
+                <li>Eureka</li>
+                <li>Feign Client</li>
+            </ul>   
+            <li>Mensageria</li>
+              <ul>  
+                <li>RabbitMQ</li>
+                <li>Kafka</li>
+            </ul>
+            <li>Banco de dados distribuído</li>
+            <ul>  
+                <li>MongoDB</li>
+                <li>Redis</li>
+            </ul>
+            <li>API Gateway</li>
+            <ul>
+                <li>Zuul</li>
+                <li>Spring Cloud Gateway</li>
+            </ul>  
         </ul>
     </div>
     <div class="section">
         <h2>🔹 DevOps e Deploy</h2>
         <ul>
-            <li>Docker (Criação e gerenciamento de containers)</li>
-            <li>Kubernetes (Orquestração de aplicações)</li>
+            <li>Docker</li>
+            <li>Kubernetes</li>
             <li>CI/CD</li>
                 <ul>
                     <li>GitHub Actions</li>
