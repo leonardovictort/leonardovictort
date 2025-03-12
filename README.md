@@ -50,7 +50,7 @@
             <li>CI/CD (GitHub Actions, Jenkins)</li>
                 <ul>
                     <li>GitHub Actions</li>
-                    <li>Jenkins/li>
+                    <li>Jenkins</li>
                 </ul>
             <li>Monitoramento (Prometheus, Grafana)</li>
         </ul>
