@@ -34,6 +34,26 @@
         </ul>
     </div>
     <div class="section">
+        <h2>🔹 Front-End</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Reservado</li>
+            <li>Reservado</li>
+            <li>Reservado</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>🎯 Objetivo Profissional</h2>
+        <p>Meu foco é me consolidar como um desenvolvedor Java especialista em backend, construindo sistemas escaláveis e eficientes. Estou sempre em busca de aprendizado contínuo, participando de hackathons, eventos e contribuindo com a comunidade de tecnologia.</p>
+    </div>
+    <div class="section">
+        <h2>💻 Conecte-se comigo!</h2>
+        <p>Caso tenha interesse em trocar ideias ou colaborar em projetos, entre em contato!</p>
+    </div>
+
+    <div class="section">
         <h2>🔹 Microservices e Arquitetura</h2>
         <ul>
             <li>Spring Cloud</li>
@@ -76,24 +96,6 @@
             </ul>
         </ul>
     </div>
-    <div class="section">
-        <h2>🔹 Front-End</h2>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>Reservado</li>
-            <li>Reservado</li>
-            <li>Reservado</li>
-        </ul>
-    </div>
-    <div class="section">
-        <h2>🎯 Objetivo Profissional</h2>
-        <p>Meu foco é me consolidar como um desenvolvedor Java especialista em backend, construindo sistemas escaláveis e eficientes. Estou sempre em busca de aprendizado contínuo, participando de hackathons, eventos e contribuindo com a comunidade de tecnologia.</p>
-    </div>
-    <div class="section">
-        <h2>💻 Conecte-se comigo!</h2>
-        <p>Caso tenha interesse em trocar ideias ou colaborar em projetos, entre em contato!</p>
-    </div>
+    
 </body>
 </html>
