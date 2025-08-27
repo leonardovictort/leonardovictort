@@ -51,8 +51,7 @@
     <div class="section">
         <h2>💻 Conecte-se comigo!</h2>
         <p>Caso tenha interesse em trocar ideias ou colaborar em projetos, entre em contato!</p>
-    </div>
-
+    </div><!--
     <div class="section">
         <h2>🔹 Microservices e Arquitetura</h2>
         <ul>
@@ -95,7 +94,6 @@
                 <li>Prometheus</li>
             </ul>
         </ul>
-    </div>
-    
+    </div>-->  
 </body>
 </html>
