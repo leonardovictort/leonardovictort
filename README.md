@@ -39,8 +39,8 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
-            <li>Reservado</li>
-            <li>Reservado</li>
+            <li>Angular</li>
+            <li>Flutter</li>
             <li>Reservado</li>
         </ul>
     </div>
