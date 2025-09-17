@@ -39,7 +39,7 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
-            <li>Angular</li>
+            <li>-</li>
             <li>Flutter</li>
             <li>Reservado</li>
         </ul>
